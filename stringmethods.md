@@ -1,4 +1,4 @@
-Certainly! Here's a list of some common string methods in Python:
+## String Methods ##
 
 1. `str.upper()`: Converts all characters in a string to uppercase.
 
